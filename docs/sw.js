@@ -93,13 +93,13 @@ define(['./workbox-b717800f'], (function (workbox) { 'use strict';
     "revision": "c466533ef5c7da138d8299ffc96bc321"
   }, {
     "url": "index.html",
-    "revision": "980bd33ada772c0b5d8bb312956d5d13"
+    "revision": "3cf85bb4b11ab4b3b880dc98c6be7ba3"
   }, {
     "url": "favicon.svg",
     "revision": "60407eccbf1dcecb6d8e75d779cbc2c3"
   }, {
     "url": "favicon.png",
-    "revision": "9dc7b245053f6aa6acbce9f80f566c0f"
+    "revision": "b9121a67b4dfa0a0e510f748d4176150"
   }, {
     "url": "assets/rapper_09-mT2KKvz1.png",
     "revision": null
@@ -144,7 +144,7 @@ define(['./workbox-b717800f'], (function (workbox) { 'use strict';
     "revision": null
   }, {
     "url": "favicon.png",
-    "revision": "9dc7b245053f6aa6acbce9f80f566c0f"
+    "revision": "b9121a67b4dfa0a0e510f748d4176150"
   }, {
     "url": "favicon.svg",
     "revision": "60407eccbf1dcecb6d8e75d779cbc2c3"
