@@ -93,7 +93,7 @@ define(['./workbox-b717800f'], (function (workbox) { 'use strict';
     "revision": "18b0acb1ba1f1a8381762dcccd881a38"
   }, {
     "url": "index.html",
-    "revision": "3cf85bb4b11ab4b3b880dc98c6be7ba3"
+    "revision": "ba2e159cfeb7f6460aac638a8dfefc6c"
   }, {
     "url": "favicon.svg",
     "revision": "60407eccbf1dcecb6d8e75d779cbc2c3"
