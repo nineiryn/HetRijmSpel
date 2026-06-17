@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: rgba(255, 255, 255, 0.87);
+    background-color: #382e28;
+    background-image:
+        radial-gradient(circle at 16% 22%, rgba(255, 132, 102, 0.13), transparent 28%),
+        radial-gradient(circle at 80% 14%, rgba(255, 179, 141, 0.09), transparent 34%),
+        linear-gradient(135deg, #3a2f29 0%, #241d19 100%);
+}
+
+#app {
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
