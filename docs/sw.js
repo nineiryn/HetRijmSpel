@@ -84,13 +84,13 @@ define(['./workbox-b717800f'], (function (workbox) { 'use strict';
     "revision": "402b66900e731ca748771b6fc5e7a068"
   }, {
     "url": "pwa-512x512.png",
-    "revision": "6e9cdda497956f192a211e78f6f25caf"
+    "revision": "b9121a67b4dfa0a0e510f748d4176150"
   }, {
     "url": "pwa-192x192.png",
-    "revision": "bf8c2b54e966a95f956922ca8194d39d"
+    "revision": "035075d82a0210cfed502e71a4a6053e"
   }, {
     "url": "maskable-512x512.png",
-    "revision": "c466533ef5c7da138d8299ffc96bc321"
+    "revision": "18b0acb1ba1f1a8381762dcccd881a38"
   }, {
     "url": "index.html",
     "revision": "3cf85bb4b11ab4b3b880dc98c6be7ba3"
@@ -150,16 +150,16 @@ define(['./workbox-b717800f'], (function (workbox) { 'use strict';
     "revision": "60407eccbf1dcecb6d8e75d779cbc2c3"
   }, {
     "url": "maskable-512x512.png",
-    "revision": "c466533ef5c7da138d8299ffc96bc321"
+    "revision": "18b0acb1ba1f1a8381762dcccd881a38"
   }, {
     "url": "pwa-192x192.png",
-    "revision": "bf8c2b54e966a95f956922ca8194d39d"
+    "revision": "035075d82a0210cfed502e71a4a6053e"
   }, {
     "url": "pwa-512x512.png",
-    "revision": "6e9cdda497956f192a211e78f6f25caf"
+    "revision": "b9121a67b4dfa0a0e510f748d4176150"
   }, {
     "url": "manifest.webmanifest",
-    "revision": "5e73237ee1a0910032f0f6ce44177aed"
+    "revision": "626525331cd1d2ff694aef81f9c3f822"
   }], {});
   workbox.cleanupOutdatedCaches();
   workbox.registerRoute(new workbox.NavigationRoute(workbox.createHandlerBoundToURL("index.html")));
